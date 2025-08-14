@@ -1,0 +1,21 @@
+{
+  "project": "Test",
+  "dataDir": "OS100",
+  "Class": 2,
+  "r": 3,
+  "population_size": 100,
+  "generation": 50,
+  "cxProb": 0.8,
+  "mutProb": 0.19,
+  "elitismProb": 0.01,
+  "initialMinDepth": 2,
+  "initialMaxDepth": 6,
+  "maxDepth": 8,
+  "tournament_size": 5,
+  "Strategy": "voting",
+  "K": 5,
+  "w1": 0.6,
+  "w2": 0.2,
+  "w3": 0.2,
+  "des": ""
+}
