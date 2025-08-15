@@ -1,6 +1,6 @@
-# GPML for Multimodal Medical Image Classification
+# Multitree Genetic Programming for Multimodal Learning in Multimodal Medical Image Classification
 
-This repository contains code for running Genetic Programming-based Multimodal Learning (GPML) experiments.
+This repository is the implementation of GPML.
 
 ## Dataset Structure
 
